@@ -1,4 +1,4 @@
-type tad, domain, domain_deprecated;
+type tad, domain;
 type tad_exec, exec_type, file_type;
 type taimport_exec, file_type, exec_type;
 
